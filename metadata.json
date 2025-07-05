@@ -1,0 +1,5 @@
+{
+  "name": "React Math Trainer",
+  "description": "A web-based math practice game to improve your arithmetic skills. Choose a difficulty, solve problems against the clock, and try to beat your high score!",
+  "requestFramePermissions": []
+}
